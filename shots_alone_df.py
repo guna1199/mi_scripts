@@ -1,6 +1,7 @@
 # This code gives us all the shots taken by belgium alone in the WC2018.
 # Don't mind the name, i've created this for eng, but was lazy to change it again
 # If you want a specific player's shots alone for all matches, just change the total_attempts line where i've specified belgium
+# Feel free to edit the file for increasing any efficiency!
 
 def key_pass(filename):
     total_attempts1 = pd.DataFrame()
